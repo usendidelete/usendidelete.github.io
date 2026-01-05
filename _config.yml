@@ -32,8 +32,9 @@ content:
         title: lncRNA Markers for Diagnosing Ovarian Cancer
         sub_title: Research Assistant/Investigator (Harvard University)
         caption: Jul 2025 - Present
-        [cite_start]quote: Analyzing cancerous genomes alongside a Harvard research scientist. [cite: 12, 15]
+        
         description: |
+          * [cite_start] Analyzing cancerous genomes alongside a Harvard research scientist. [cite: 12]
           * [cite_start]Collecting gene data on cancerous genomes. [cite: 14]
           * [cite_start]Analyzed over 15 sets of metadata to formulate a hypothesis on traits affecting gene expression using R. [cite: 14]
       - layout: left
